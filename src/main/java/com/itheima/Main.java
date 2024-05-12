@@ -12,5 +12,6 @@ package com.itheima;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
+        System.out.println("第二次测试第二个版本");
     }
 }
